@@ -44,16 +44,6 @@
 - Feature engineering (car age, depreciation)
 - Power BI dashboard for insights
 
-### 📱 Instagram Fake Account Detection
-- Regression-based fake score (0–1)
-- Engagement & profile analysis
-
-### 🎬 Reel Performance Predictor
-- Predict views & engagement
-- Based on hashtags, duration, trends
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-ashiq-a&show_icons=true&theme=tokyonight)
@@ -64,8 +54,8 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: ashiqanoden@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/ashiq-anodan
 - 🌍 Portfolio: https://your-portfolio-link.com
 
 ---
